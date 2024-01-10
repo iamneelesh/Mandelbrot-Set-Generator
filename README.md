@@ -1,1 +1,1 @@
-# https-github.com-Arush-Bansal-Mandelbrot-Set-Generator
+Mandelbrot-Set-Generator
